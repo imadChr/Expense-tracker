@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ExpenseTracker2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/hsqldb-jdk8.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-5-PROJECT_LOC/hsqldb-2.7.1/hsqldb/lib/hsqldb-jdk8.jar</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
